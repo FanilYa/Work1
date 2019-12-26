@@ -1,0 +1,30 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "Второй день",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FanilYa/Landing-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FanilYa/Landing-2/issues"
+  },
+  "homepage": "https://github.com/FanilYa/Landing-2#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "debug-log": "^2.0.0",
+    "font-awesome": "^4.7.0",
+    "fotorama": "^4.6.4",
+    "get-google-fonts": "^1.2.0",
+    "laravel-mix": "^4.0.16"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0"
+  }
+}
